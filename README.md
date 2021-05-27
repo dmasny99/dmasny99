@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ML.
 - 📫 How to reach me tg @dmasny or via email dmasny@yandex.ru
 # - ML projects are stored in the repo techpark2021
+# - Certificates and diplomas are in repo certs 
 
 <!---
 dmasny99/dmasny99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
